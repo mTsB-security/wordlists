@@ -1,2 +1,2 @@
 # wordlists
-Diversas wordlists para brute force
+Wordlists para brute force.
